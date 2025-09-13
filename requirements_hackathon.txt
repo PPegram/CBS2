@@ -1,0 +1,6 @@
+# Cultural Bias Shield - Hackathon Requirements
+# Simplified dependencies for code-focused hackathon
+
+Flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
